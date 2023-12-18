@@ -1,0 +1,22 @@
+main
+{
+font-size: 16px;
+font-family: 'Times New Roman', Times, serif;
+}
+p
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+div
+{
+    margin: 10%; 
+    margin-top: 0%; 
+    margin-bottom: 0% ;
+}
+.box
+{
+  float: left;
+
+}
